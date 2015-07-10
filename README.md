@@ -3,4 +3,4 @@ Control wordpress excerpt - copied from http://bavotasan.com/2009/limiting-the-n
 
 call function in template
 
-  <?php echo excerpt(25); ?>
+    <?php echo excerpt(25); ?>
